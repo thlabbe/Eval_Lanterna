@@ -1,0 +1,41 @@
+
+
+  *--------------------------------------*
+  |  Atelier                             |
+  |                                      |
+  |  Project  <LabelProject>  [Change]   |
+  |                                      |
+  |  Date     <LabelDate>     [Change]   |
+  |                                      |
+  |  Job      <LabelJob>      [Change]   |
+  |                                      |
+  |  Region   <LabelRegion>   [Change]   |
+  |                                      |
+  *--------------------------------------*
+  |  Details                             |
+  |                                      |
+  |  <TablePax>                          |
+  |  Pax File  TimeStamp infos           |
+  |      .         .       .             |
+  |      .         .       .             |
+  |      .         .       .             |
+  |      .         .       .             |
+  |                                      |
+  | <TableVSAM>                          |
+  |  VSAM      TimeStamp infos           |
+  |   .            .       .             |
+  |   .            .       .             |
+  |   .            .       .             |
+  |                                      |
+  | <TableGDG>                           |
+  |  GDG       TimeStamp infos           |
+  |   .            .       .             |
+  |                                      |
+  | <TableSEQ>                           |
+  |  GDG       TimeStamp infos           |
+  |   .            .       .             |
+  |   .            .       .             |
+  |   .            .       .             |
+  |                                      |
+  *--------------------------------------*
+  

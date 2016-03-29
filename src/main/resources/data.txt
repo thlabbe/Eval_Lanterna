@@ -1,0 +1,669 @@
+/prj/veolia/batch/data/20151104/FP024/FI0:
+total 184K
+drwxrwsr-x 1 fsimonetto veolia    0 Jan 19 11:29 ascii
+-rw-r----- 1 fsimonetto veolia    0 Nov  3 16:16 PSEQGC.FP.FI0.GNES423.HFACTACF.L432.SO
+-rw-r----- 1 fsimonetto veolia 3.1K Nov  3 16:16 PSEQGC.FP.FI0.GNPT422.HFACTACF.L432.SO
+-rw-r----- 1 fsimonetto veolia 177K Nov  3 16:16 PSEQGC.FP.FI0.MVTS.VALENSOR.L432.SI
+
+/prj/veolia/batch/data/20151104/FP052/FI0:
+total 4.0K
+drwxrwsr-x 1 fsimonetto veolia   0 Jan 19 11:36 ascii
+-rw-r----- 1 fsimonetto veolia   0 Nov  3 13:38 PSEQGC.FP.FI0.GNPV8105.C151J.L432.SI
+-rw-r----- 1 fsimonetto veolia 240 Nov  3 13:39 PSEQGC.FP.FI0.GNPV8205.C152J.L432.SI
+-rw-r----- 1 fsimonetto veolia   0 Nov  3 13:39 PSEQGC.FP.FI0.GNPV8405.C155J.L432.SI
+-rw-r----- 1 fsimonetto veolia   0 Nov  3 13:39 PSEQGC.FP.FI0.GNPV8605.C157J.L432.SI
+
+/prj/veolia/batch/data/20151104/FP301/FI0:
+total 16M
+drwxrwsr-x 1 nchadli veolia    6 Feb 25 18:16 ascii
+drwxrwsr-x 1 nchadli veolia  276 Feb 25 18:15 csv
+-rw-r--r-- 1 root    veolia  16M Feb 26 13:08 FP301-csv.tgz
+drwxrwsr-x 1 nchadli veolia   84 Feb 25 18:05 in
+drwxrwsr-x 1 nchadli veolia   50 Feb 25 18:20 out
+-rw-r----- 1 nchadli veolia    0 Nov  3 10:57 PSEQGC.FP.FI0.FID00.FP8550.FP605K.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 10:56 PSEQGC.FP.FI0.FP8120.MAJSIT.PRO.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 10:57 PSEQGC.FP.FI0.FP8210.MAJSIT.PRO.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 10:57 PSEQGC.FP.FI0.FP8408.MAJSIT.PRO.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 10:58 PSEQGC.FP.FI0.FP8422M.ACF06.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:00 PSEQGC.FP.FI0.FP8422N.ACF06.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:00 PSEQGC.FP.FI0.FP8644.CRGNPV.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:01 PSEQGC.FP.FI0.FP9010.MAJSIT.PRO.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:01 PSEQGC.FP.FI0.GNES423.ACF06.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:01 PSEQGC.FP.FI0.GNPT423.ACF06.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:02 PSEQGC.FP.FI0.GNPV05.C151J.L432.SO
+-rw-r----- 1 nchadli veolia  450 Nov  3 11:02 PSEQGC.FP.FI0.GNPV05.C152J.L432.SO
+-rw-r----- 1 nchadli veolia 6.7K Nov  3 11:02 PSEQGC.FP.FI0.GNPV05.C155F.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:02 PSEQGC.FP.FI0.GNPV05.C155J.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:03 PSEQGC.FP.FI0.GNPV05.C157J.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:03 PSEQGC.FP.FI0.GNPV8105.C151J.L432.SO
+-rw-r----- 1 nchadli veolia  240 Nov  3 11:03 PSEQGC.FP.FI0.GNPV8205.C152J.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:04 PSEQGC.FP.FI0.GNPV8405.C155J.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:04 PSEQGC.FP.FI0.GNPV8605.C157J.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 11:04 PSEQGC.FP.FI0.MVTS.VALC157.L432.SO
+drwxrwsr-x 1 nchadli veolia    6 Feb 25 18:20 unload
+
+/prj/veolia/batch/data/20151104/FP313/FI0:
+total 25M
+drwxrwsr-x 1 fsimonetto veolia 1.4K Feb 25 15:19 csv
+drwxrwsr-x 1 fsimonetto veolia  118 Jan 19 12:03 in
+drwxrwsr-x 1 fsimonetto veolia  130 Jan 19 12:03 out
+-rw-r----- 1 fsimonetto veolia  31K Nov  3 16:02 PSEQGC.FP.FI0.FID00.FP8234.FP313K.L432.SO
+-rw-r----- 1 fsimonetto veolia 242K Nov  3 16:03 PSEQGC.FP.FI0.FID00.GNTR15.FP313K.L432.SO
+-rw-r----- 1 fsimonetto veolia  14K Nov  3 16:03 PSEQGC.FP.FI0.FP8234.CTR.SO
+-rw-r----- 1 fsimonetto veolia  44K Nov  3 16:03 PSEQGC.FP.FI0.FP8234.NOM.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  3 16:03 PSEQGC.FP.FI0.FPTR02.PORTABLE.SO
+-rw-r----- 1 fsimonetto veolia 462K Nov  3 16:04 PSEQGC.FP.FI0.FPTR03.INDEXT.SO
+-rw-r----- 1 fsimonetto veolia  32K Nov  3 16:04 PSEQGC.FP.FI0.FPTR04.REJET.SO
+-rw-r----- 1 fsimonetto veolia  23K Nov  3 16:04 PSEQGC.FP.FI0.GNTR01.PORTABLE.SO
+-rw-r----- 1 fsimonetto veolia 462K Nov  3 16:04 PSEQGC.FP.FI0.GNTR03.GNINDEXS.SO
+-rw-r----- 1 fsimonetto veolia  480 Nov  3 16:05 PSEQGC.FP.FI0.GNTR03.REJET.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  3 16:04 PSEQGC.FP.FI0.GNTR03.SICLIENT.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.2M Nov  3 16:05 PSEQGC.FP.FI0.GNTRI1.GNTRIE.SO
+-rw-r----- 1 fsimonetto veolia  12M Nov  3 16:05 PSEQGC.FP.FI0.SAUVE.LOGAPRTR.L432.SO
+-rw-r----- 1 fsimonetto veolia  11M Nov  3 16:06 PSEQGC.FP.FI0.SAUVE.LOGAVTTR.L432.SO
+
+/prj/veolia/batch/data/20151104/FP314/FI0:
+total 48K
+drwxrwsr-x 1 tlabbe veolia  10 Jan 26 14:04 ascii
+drwxrwsr-x 1 tlabbe veolia 250 Jan 26 12:29 csv
+drwxrwsr-x 1 tlabbe veolia  38 Jan 25 13:55 in
+drwxrwsr-x 1 tlabbe veolia  20 Jan 25 15:21 out
+-rw-r----- 1 tlabbe veolia 14K Nov  2 10:55 PSEQGC.FP.FI0.FP8234.CTR.SI
+-rw-r----- 1 tlabbe veolia 673 Nov  2 10:56 PSEQGC.FP.FI0.FPTP3.VERROU.SO
+-rw-r----- 1 tlabbe veolia   0 Nov  2 10:55 PSEQGC.FP.FI0.FPTR02.PORTABLE.SI
+-rw-r----- 1 tlabbe veolia 23K Nov  2 10:55 PSEQGC.FP.FI0.GNTR01.PORTABLE.SI
+-rw-r----- 1 tlabbe veolia  80 Nov  2 10:56 PSEQGC.FP.FI0.PERMI.MAJABOCI.SO
+
+/prj/veolia/batch/data/20151104/FP351/FI0:
+total 248K
+drwxrwsr-x 1 nchadli veolia    4 Feb  3 14:25 ascii
+drwxrwsr-x 1 nchadli veolia   32 Feb  3 12:07 in
+-rw-r----- 1 nchadli veolia  15K Nov  3 16:14 PSEQGC.FP.FI0.MVTS.MAJABON.L432.SO
+-rw-r----- 1 nchadli veolia  45K Nov  3 16:14 PSEQGC.FP.FI0.MVTS.MAJTARI.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 16:15 PSEQGC.FP.FI0.MVTS.REPENSOR.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 16:15 PSEQGC.FP.FI0.MVTS.VALC157.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  3 16:15 PSEQGC.FP.FI0.MVTS.VALCX55.L432.SO
+-rw-r----- 1 nchadli veolia 177K Nov  3 16:15 PSEQGC.FP.FI0.MVTS.VALENSOR.L432.SO
+-rw-r----- 1 nchadli veolia   80 Nov  3 16:14 PSEQGC.FP.FI0.PERMI.EXTRAC.SI
+
+/prj/veolia/batch/data/20151104/FP554/FI0:
+total 142M
+drwxrwsr-x 1 fsimonetto veolia 1.2K Jan 28 12:30 csv
+drwxrwsr-x 1 fsimonetto veolia  134 Jan 28 12:14 in
+drwxrwsr-x 1 fsimonetto veolia   16 Jan 28 12:14 out
+-rw-r----- 1 fsimonetto veolia  35K Nov  4 09:32 PAMSGC.FP.FI0.TARDATES.SI
+-rw-r----- 1 fsimonetto veolia 1.6K Nov  4 09:37 PSEQGC.FP.FI0.FID00.GNES415.FP554K.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.6K Nov  4 09:42 PSEQGC.FP.FI0.FID00.GNPT416.FP554K.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.1M Nov  4 09:45 PSEQGC.FP.FI0.FP554K.FICVENTE.L432.SO
+-rw-r----- 1 fsimonetto veolia 611K Nov  4 09:46 PSEQGC.FP.FI0.FP554K.GNVENT01.L432.SO
+-rw-r----- 1 fsimonetto veolia 4.1K Nov  4 09:46 PSEQGC.FP.FI0.GNES301.FICEXTRT.L432.SO
+-rw-r----- 1 fsimonetto veolia  51K Nov  4 09:47 PSEQGC.FP.FI0.GNES301.PARAMX55.L432.SO
+-rw-r----- 1 fsimonetto veolia  160 Nov  4 09:47 PSEQGC.FP.FI0.GNES301.REJET.L432.SO
+-rw-r----- 1 fsimonetto veolia 5.2M Nov  4 09:49 PSEQGC.FP.FI0.GNES423.AVALNOR.L432.SO
+-rw-r----- 1 fsimonetto veolia  43K Nov  4 09:48 PSEQGC.FP.FI0.GNES423.CONSTVA.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 09:49 PSEQGC.FP.FI0.GNES423.EDFNAER.L432.SO
+-rw-r----- 1 fsimonetto veolia  31K Nov  4 09:50 PSEQGC.FP.FI0.GNES423.ETAT01.L432.SO
+-rw-r----- 1 fsimonetto veolia 134K Nov  4 09:51 PSEQGC.FP.FI0.GNES423.EXCATORT.L432.SO
+-rw-r----- 1 fsimonetto veolia 885K Nov  4 09:50 PSEQGC.FP.FI0.GNES423.FICVENTE.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 09:52 PSEQGC.FP.FI0.GNES423.HFACTACF.L432.SO
+-rw-r----- 1 fsimonetto veolia 587K Nov  4 09:51 PSEQGC.FP.FI0.GNES423.HFACTPRO.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.2M Nov  4 09:53 PSEQGC.FP.FI0.GNES423.PRODUIT.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.6M Nov  4 09:53 PSEQGC.FP.FI0.GNES423.QUINC.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.5M Nov  4 09:54 PSEQGC.FP.FI0.GNES423.TWRECOUV.L432.SO
+-rw-r----- 1 fsimonetto veolia 177K Nov  4 09:54 PSEQGC.FP.FI0.GNES426.SORTIE.L432.SO
+-rw-r----- 1 fsimonetto veolia  15K Nov  4 09:55 PSEQGC.FP.FI0.GNPT422.ACF06.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.7M Nov  4 09:55 PSEQGC.FP.FI0.GNPT422.AVALNOR.L432.SO
+-rw-r----- 1 fsimonetto veolia 4.7K Nov  4 09:56 PSEQGC.FP.FI0.GNPT422.CONSTVA.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 09:56 PSEQGC.FP.FI0.GNPT422.EDFNAER.L432.SO
+-rw-r----- 1 fsimonetto veolia 7.5K Nov  4 09:57 PSEQGC.FP.FI0.GNPT422.ETAT01.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 09:57 PSEQGC.FP.FI0.GNPT422.EXCATORT.L432.SO
+-rw-r----- 1 fsimonetto veolia 226K Nov  4 09:58 PSEQGC.FP.FI0.GNPT422.FICVENTE.L432.SO
+-rw-r----- 1 fsimonetto veolia 3.1K Nov  4 09:58 PSEQGC.FP.FI0.GNPT422.HFACTACF.L432.SO
+-rw-r----- 1 fsimonetto veolia 150K Nov  4 09:59 PSEQGC.FP.FI0.GNPT422.HFACTPRO.L432.SO
+-rw-r----- 1 fsimonetto veolia 312K Nov  4 09:59 PSEQGC.FP.FI0.GNPT422.PRODUIT.L432.SO
+-rw-r----- 1 fsimonetto veolia 429K Nov  4 10:00 PSEQGC.FP.FI0.GNPT422.QUINC.L432.SO
+-rw-r----- 1 fsimonetto veolia 385K Nov  4 10:00 PSEQGC.FP.FI0.GNPT422.TWRECOUV.L432.SO
+-rw-r----- 1 fsimonetto veolia  55M Nov  4 09:34 PSEQGC.FP.FI0.GROUP.ABOVAL.SI
+-rw-r----- 1 fsimonetto veolia  57M Nov  4 10:01 PSEQGC.FP.FI0.GROUP.ABOVAL.SO
+-rw-r----- 1 fsimonetto veolia 177K Nov  4 09:36 PSEQGC.FP.FI0.MVTS.VALENSOR.L432.SI
+-rw-r----- 1 fsimonetto veolia 3.8M Nov  4 10:03 PSEQGC.FP.FI0.SAUVE.FP20ESNP.L432.SO
+-rw-r----- 1 fsimonetto veolia 843K Nov  4 10:04 PSEQGC.FP.FI0.SAUVE.FP20ESP.L432.SO
+-rw-r----- 1 fsimonetto veolia 4.6M Nov  4 10:04 PSEQGC.FP.FI0.SAUVE.FPB20ES.L432.SO
+-rw-r----- 1 fsimonetto veolia 2.7M Nov  4 10:05 PSEQGC.FP.FI0.SAUVE.LOGAPREV.L432.SO
+-rw-r----- 1 fsimonetto veolia 2.7M Nov  4 10:06 PSEQGC.FP.FI0.SAUVE.LOGAVTEV.L432.SO
+-rw-r----- 1 fsimonetto veolia 2.5K Nov  4 09:33 PSEQGC.FR.FI0.RESID.DD000F1.SI
+
+/prj/veolia/batch/data/20151104/FP702/FI0:
+total 9.6M
+drwxrwsr-x 1 nchadli    veolia    4 Feb 29 16:50 ascii
+-rw-r----- 1 nchadli    veolia  31K Nov  2 10:56 PSEQGC.FP.FI0.FID00.FP8234.FP313K.L432.SI
+-rw-rw-r-- 1 fsimonetto veolia 227K Feb  8 17:18 PSEQGC.FP.FI0.FID00.FP8234.FP313K.L432.SI.DTA
+-rw-r----- 1 nchadli    veolia 138K Nov  2 10:58 PSEQGC.FP.FI0.FID00.GNEACC83.FP702E.L432.SO
+-rw-r----- 1 nchadli    veolia 242K Nov  2 10:56 PSEQGC.FP.FI0.FID00.GNTR15.FP313K.L432.SI
+-rw-r----- 1 nchadli    veolia  32K Nov  2 10:57 PSEQGC.FP.FI0.FPTR04.REJET.SI
+-rw-r----- 1 nchadli    veolia 462K Nov  2 10:57 PSEQGC.FP.FI0.GNTR03.GNINDEXS.SI
+-rw-r----- 1 nchadli    veolia  480 Nov  2 10:57 PSEQGC.FP.FI0.GNTR03.REJET.SI
+-rw-r----- 1 nchadli    veolia 4.3M Nov  2 10:58 PSEQGC.FP.FI0.SAUVE.CICSIMAG.L432.SO
+-rw-r----- 1 nchadli    veolia 4.3M Nov  2 10:57 PSEQGC.FP.FI0.SAVET.IMAPROV.SI
+
+/prj/veolia/batch/data/20151104/TW341/FI0:
+total 1.1G
+drwxrwsr-x 1 danglade veolia   10 Jan 18 14:55 ascii
+drwxrwsr-x 1 danglade veolia  286 Jan 18 15:50 csv
+drwxrwsr-x 1 danglade veolia   76 Jan 18 14:55 in
+-rw-r----- 1 danglade veolia 4.8K Nov  4 14:33 PSEQGC.TW.FI0.FID00.TW3005.TW341K.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov  4 14:33 PSEQGC.TW.FI0.GROUP.RECYCPT.SI
+-rw-r----- 1 danglade veolia 316M Nov  4 14:33 PSEQGC.TW.FI0.TRI3010.TW3010IA.L432.SO
+-rw-r----- 1 danglade veolia  640 Nov  4 14:37 PSEQGC.TW.FI0.TW3005.TW3005OB.L432.SO
+-rw-r----- 1 danglade veolia 316M Nov  4 14:38 PSEQGC.TW.FI0.TW3007.TW3007OA.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov  4 14:41 PSEQGC.TW.FI0.TW3007.TW3007OB.L432.SO
+-rw-r--r-- 1 root     veolia 441M Feb 26 10:37 TW341.inputs.tgz
+
+/prj/veolia/batch/data/20151104/TW344/FI0:
+total 800M
+drwxrwsr-x 1 nchadli veolia   10 Feb 12 17:06 ascii
+drwxrwsr-x 1 nchadli veolia   84 Feb 12 17:06 csv
+drwxrwsr-x 1 nchadli veolia   52 Feb 12 16:56 in
+-rw-r----- 1 nchadli veolia 3.8K Nov  4 14:44 PSEQGC.RPLT.FR.FZ0.EURO.REGLE.TW344XI344XI
+-rw-r----- 1 nchadli veolia 617K Nov  4 14:47 PSEQGC.TW.FI0.FID00.TW3025.TW344K.L432.SO
+-rw-r----- 1 nchadli veolia 107K Nov  4 14:48 PSEQGC.TW.FI0.FID00.VREDIT1.TW344K.L432.SO
+-rw-r----- 1 nchadli veolia 2.2M Nov  4 14:48 PSEQGC.TW.FI0.FID34B.TW3015.TW344K.L432.SO
+-rw-r----- 1 nchadli veolia 2.3M Nov  4 14:48 PSEQGC.TW.FI0.FID34.TW3015.TW344K.L432.SO
+-rw-r----- 1 nchadli veolia 1.9M Nov  4 14:49 PSEQGC.TW.FI0.FID36.TW3015.TW344K.L432.SO
+-rw-r----- 1 nchadli veolia  68M Nov  4 14:48 PSEQGC.TW.FI0.GROUP.RECYCPT.SO
+-rw-r----- 1 nchadli veolia  94M Nov  4 14:49 PSEQGC.TW.FI0.TRANS.TW3017.TW3015EX.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:49 PSEQGC.TW.FI0.TRANS.TW3030.TW3003.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3004.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3006.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3007.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3008.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3011.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3013.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3014.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3017.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3020.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3024.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3025.L432.SO
+-rw-r----- 1 nchadli veolia 316M Nov  4 14:44 PSEQGC.TW.FI0.TRI3010.TW3010IA.L432.SI
+-rw-r----- 1 nchadli veolia 125K Nov  4 14:51 PSEQGC.TW.FI0.TW300.EDITIONS.L432.SO
+-rw-r----- 1 nchadli veolia 125K Nov  4 14:52 PSEQGC.TW.FI0.TW3010.EDITION.L432.SO
+-rw-r----- 1 nchadli veolia  522 Nov  4 14:52 PSEQGC.TW.FI0.TW3015.EDITION.L432.SO
+-rw-r----- 1 nchadli veolia 249M Nov  4 14:52 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.SO
+-rw-r----- 1 nchadli veolia  68M Nov  4 14:54 PSEQGC.TW.FI0.TW3015.TW3015OB.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov  4 14:55 PSEQGC.TW.FI0.TW3025.EDITION.L432.SO
+-rw-r----- 1 nchadli veolia 660K Nov  4 14:55 PSEQGC.TW.FI0.TW3025.TW3025OA.L432.SO
+-rw-r----- 1 nchadli veolia 660K Nov  4 14:56 PSEQGC.TW.FI0.TW3025.TW3025OB.L432.SO
+
+/prj/veolia/batch/data/20151104/TW344_old/FI0:
+total 800M
+drwxrwsr-x 1 fsimonetto veolia   52 Jan 18 16:16 in
+-rw-r----- 1 fsimonetto veolia 3.8K Nov  4 14:44 PSEQGC.RPLT.FR.FZ0.EURO.REGLE.TW344XI344XI
+-rw-r----- 1 fsimonetto veolia 617K Nov  4 14:47 PSEQGC.TW.FI0.FID00.TW3025.TW344K.L432.SO
+-rw-r----- 1 fsimonetto veolia 107K Nov  4 14:48 PSEQGC.TW.FI0.FID00.VREDIT1.TW344K.L432.SO
+-rw-r----- 1 fsimonetto veolia 2.2M Nov  4 14:48 PSEQGC.TW.FI0.FID34B.TW3015.TW344K.L432.SO
+-rw-r----- 1 fsimonetto veolia 2.3M Nov  4 14:48 PSEQGC.TW.FI0.FID34.TW3015.TW344K.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.9M Nov  4 14:49 PSEQGC.TW.FI0.FID36.TW3015.TW344K.L432.SO
+-rw-r----- 1 fsimonetto veolia  68M Nov  4 14:48 PSEQGC.TW.FI0.GROUP.RECYCPT.SO
+-rw-r----- 1 fsimonetto veolia  94M Nov  4 14:49 PSEQGC.TW.FI0.TRANS.TW3017.TW3015EX.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:49 PSEQGC.TW.FI0.TRANS.TW3030.TW3003.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3004.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3006.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3007.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:50 PSEQGC.TW.FI0.TRANS.TW3030.TW3008.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3011.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3013.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3014.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3017.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3020.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3024.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:51 PSEQGC.TW.FI0.TRANS.TW3030.TW3025.L432.SO
+-rw-r----- 1 fsimonetto veolia 316M Nov  4 14:44 PSEQGC.TW.FI0.TRI3010.TW3010IA.L432.SI
+-rw-r----- 1 fsimonetto veolia 125K Nov  4 14:51 PSEQGC.TW.FI0.TW300.EDITIONS.L432.SO
+-rw-r----- 1 fsimonetto veolia 125K Nov  4 14:52 PSEQGC.TW.FI0.TW3010.EDITION.L432.SO
+-rw-r----- 1 fsimonetto veolia  522 Nov  4 14:52 PSEQGC.TW.FI0.TW3015.EDITION.L432.SO
+-rw-r----- 1 fsimonetto veolia 249M Nov  4 14:52 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.SO
+-rw-r----- 1 fsimonetto veolia  68M Nov  4 14:54 PSEQGC.TW.FI0.TW3015.TW3015OB.L432.SO
+-rw-r----- 1 fsimonetto veolia    0 Nov  4 14:55 PSEQGC.TW.FI0.TW3025.EDITION.L432.SO
+-rw-r----- 1 fsimonetto veolia 660K Nov  4 14:55 PSEQGC.TW.FI0.TW3025.TW3025OA.L432.SO
+-rw-r----- 1 fsimonetto veolia 660K Nov  4 14:56 PSEQGC.TW.FI0.TW3025.TW3025OB.L432.SO
+
+/prj/veolia/batch/data/20151104/TW466/FI0:
+total 1.1M
+drwxrwsr-x 1 tlabbe veolia   10 Jan 29 10:54 ascii
+drwxrwsr-x 1 tlabbe veolia  440 Jan 28 17:42 csv
+drwxrwsr-x 1 tlabbe veolia   56 Jan 28 17:23 in
+-rw-r----- 1 tlabbe veolia  16K Nov  4 13:38 PSEQGC.TW.FI0.FID00.TWTI40.TW305K.L432.SO
+-rw-r----- 1 tlabbe veolia 418K Nov  4 13:38 PSEQGC.TW.FI0.TIP.PRO.SI
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:38 PSEQGC.TW.FI0.TWRIB02.RIBANO01.L432.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:38 PSEQGC.TW.FI0.TWRIB02.RIBTIP0B.L432.SO
+-rw-r----- 1 tlabbe veolia 4.1K Nov  4 13:38 PSEQGC.TW.FI0.TWRIB05.RIBTIPM.SO
+-rw-r----- 1 tlabbe veolia 4.1K Nov  4 13:38 PSEQGC.TW.FI0.TWSUI10.SUIMAJM.L432.SO
+-rw-r----- 1 tlabbe veolia 1.3K Nov  4 13:38 PSEQGC.TW.FI0.TWTI05.SPIMAJ.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:38 PSEQGC.TW.FI0.TWTI05.TELTRANS.L432.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:38 PSEQGC.TW.FI0.TWTI10.ATIP.L432.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:38 PSEQGC.TW.FI0.TWTI10.MREC.L432.SO
+-rw-r----- 1 tlabbe veolia 446K Nov  4 13:38 PSEQGC.TW.FI0.TWTI10.STIP.L432.SO
+-rw-r----- 1 tlabbe veolia 171K Nov  4 13:38 PSEQGC.TW.FI0.TWTI15.MREC.SO
+
+/prj/veolia/batch/data/20151104/TW467/FI0:
+total 204K
+drwxrwsr-x 1 tlabbe veolia   10 Feb  2 16:13 ascii
+drwxrwsr-x 1 tlabbe veolia  524 Feb  1 11:22 csv
+drwxrwsr-x 1 tlabbe veolia  108 Feb  1 11:03 in
+-rw-r----- 1 tlabbe veolia 3.8K Nov  4 13:54 PSEQGC.RPLT.FZ0.ECREGLE.TW467XI467XI
+-rw-r----- 1 tlabbe veolia  22K Nov  4 13:54 PSEQGC.TW.FI0.FID00.GNCOLECH.L432.SO
+-rw-r----- 1 tlabbe veolia  30K Nov  4 13:54 PSEQGC.TW.FI0.FID00.TWTF10.TW305K.L432.SO
+-rw-r----- 1 tlabbe veolia  86K Nov  4 13:54 PSEQGC.TW.FI0.TLF.PRO.SI
+-rw-r----- 1 tlabbe veolia  14K Nov  4 13:54 PSEQGC.TW.FI0.TWRIB05.RIBTLFM.SO
+-rw-r----- 1 tlabbe veolia  126 Nov  4 13:54 PSEQGC.TW.FI0.TWTF05.SPIMAJ.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:54 PSEQGC.TW.FI0.TWTF05.TELTRANS.L432.SO
+-rw-r----- 1 tlabbe veolia    0 Nov  4 13:54 PSEQGC.TW.FI0.TWTF10.ANOTELEF.L432.SO
+-rw-r----- 1 tlabbe veolia  17K Nov  4 13:54 PSEQGC.TW.FI0.TWTF10.MREC.SO
+-rw-r----- 1 tlabbe veolia  16K Nov  4 13:54 PSEQGC.TW.FI0.TWTF10.SUIMAJ.L432.SO
+
+/prj/veolia/batch/data/20151117/FP062/FI0:
+total 11M
+drwxrwsr-x 1 fsimonetto veolia    0 Jan 19 23:49 ascii
+-rw-r----- 1 fsimonetto veolia 1.2M Nov 17 12:39 PSEQGC.FP.FI0.FP062QPT.L432.SO
+-rw-r----- 1 fsimonetto veolia 4.3M Nov 17 12:39 PSEQGC.FP.FI0.FP062QUC.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.2M Nov 17 12:39 PSEQGC.FP.FI0.FP555QPT.L432.SI
+-rw-r----- 1 fsimonetto veolia 4.3M Nov 17 12:39 PSEQGC.FP.FI0.FP555QUC.L432.SI
+
+/prj/veolia/batch/data/20151117/FP554K/FI0:
+total 0
+drwxrwsr-x 1 tlabbe veolia 0 Jan 25 14:40 ascii
+
+/prj/veolia/batch/data/20151117/FP555/FI0:
+total 342M
+drwxrwsr-x 1 nchadli veolia   10 Feb 26 16:59 ascii
+drwxrwsr-x 1 nchadli veolia 1.1K Feb 26 16:59 csv
+drwxrwsr-x 1 nchadli veolia  122 Feb 25 19:01 in
+drwxrwsr-x 1 nchadli veolia   52 Feb 26 15:38 out
+-rw-r----- 1 nchadli veolia 1.2M Nov 17 12:38 PSEQGC.FP.FI0.FP555QPT.L432.SO
+-rw-r----- 1 nchadli veolia 4.3M Nov 17 12:38 PSEQGC.FP.FI0.FP555QUC.L432.SO
+-rw-r----- 1 nchadli veolia  51K Nov 17 12:37 PSEQGC.FP.FI0.GNES301.PARAMX55.L432.SI
+-rw-r----- 1 nchadli veolia 1.6M Nov 17 12:37 PSEQGC.FP.FI0.GNES423.QUINC.L432.SI
+-rw-r----- 1 nchadli veolia  40K Nov 17 12:38 PSEQGC.FP.FI0.GNPT410.ANOIMA.L432.SO
+-rw-r----- 1 nchadli veolia 429K Nov 17 12:37 PSEQGC.FP.FI0.GNPT422.QUINC.L432.SI
+-rw-r----- 1 nchadli veolia 290K Nov 17 12:38 PSEQGC.FP.FI0.VP8424ES.CUMULS.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov 17 12:38 PSEQGC.FP.FI0.VP8424ES.MVTSUIV.L432.SO
+-rw-r----- 1 nchadli veolia  17K Nov 17 12:38 PSEQGC.FP.FI0.VP8424ES.VALPAF.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov 17 12:38 PSEQGC.FP.FI0.VP8424F.FEARL.L432.SO
+-rw-r----- 1 nchadli veolia    0 Nov 17 12:38 PSEQGC.FP.FI0.VP8424F.MVTSUIV.L432.SO
+-rw-r----- 1 nchadli veolia 174K Nov 17 12:38 PSEQGC.FP.FI0.VP8636ES.ANOIMA.L432.SO
+-rw-r----- 1 nchadli veolia  37K Nov 17 12:38 PSEQGC.FP.FI0.VPABOAD.FAVOIRED.L432.SO
+-rw-r----- 1 nchadli veolia 2.5K Nov 17 12:37 PSEQGC.FR.FI0.RESID.DD000F1.SI
+-rw-r----- 1 nchadli veolia 167M Nov 17 12:37 PSEQGC.GP.FI0.GROUP.CUMURECY.SI
+-rw-r----- 1 nchadli veolia 168M Nov 17 12:38 PSEQGC.GP.FI0.GROUP.CUMURECY.SO
+
+/prj/veolia/batch/data/20151117/FP556/FI0:
+total 3.1G
+drwxrwsr-x 1 nchadli  veolia   10 Mar  8 16:08 ascii
+drwxrwsrwx 1 nchadli  veolia 1.7K Jan 29 16:53 csv
+drwxrwsr-x 1 danglade veolia  172 Feb 23 15:57 in
+drwxrwsr-x 1 danglade veolia   14 Feb 23 15:57 out
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.ESCOG01.FSABOGA.L432.SO
+-rw-r----- 1 danglade veolia 5.2M Nov 17 15:07 PSEQGC.FP.FI0.ESCOG01.FSDCORA.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.ESCOG01.FSDINDA.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.ESCOG01.FSDREIA.L432.SO
+-rw-r----- 1 danglade veolia 1.2M Nov 17 15:02 PSEQGC.FP.FI0.FP062QPT.L432.SI
+-rw-r----- 1 danglade veolia 4.3M Nov 17 15:02 PSEQGC.FP.FI0.FP062QUC.L432.SI
+-rw-r----- 1 danglade veolia 9.8M Nov 17 15:08 PSEQGC.FP.FI0.FP556FIC.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.FP8638ES.FICSEUIL.L432.SO
+-rw-r----- 1 danglade veolia  95K Nov 17 15:08 PSEQGC.FP.FI0.GNES710.MVTABO.L432.SO
+-rw-r----- 1 danglade veolia 122K Nov 17 15:08 PSEQGC.FP.FI0.GNES710.MVTSUIES.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.GNPT8638.FICSEUIL.L432.SO
+-rw-r----- 1 danglade veolia 5.2M Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06CFA0.L432.SO
+-rw-r----- 1 danglade veolia 5.2M Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06CFAN.L432.SO
+-rw-r----- 1 danglade veolia 4.1K Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06CRM0.L432.SO
+-rw-r----- 1 danglade veolia 1.2M Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06DIN0.L432.SO
+-rw-r----- 1 danglade veolia  11M Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06FGE0.L432.SO
+-rw-r----- 1 danglade veolia 3.1M Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06NBI0.L432.SO
+-rw-r----- 1 danglade veolia 265K Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06REI0.L432.SO
+-rw-r----- 1 danglade veolia    0 Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.FE06TPE0.L432.SO
+-rw-r----- 1 danglade veolia 4.8K Nov 17 15:08 PSEQGC.FP.FI0.PMP06ES.SMADEC.L432.SO
+-rw-r----- 1 danglade veolia 3.8M Nov 17 15:02 PSEQGC.FP.FI0.SAUVE.FP20ESNP.L432.SI
+-rw-r----- 1 danglade veolia 843K Nov 17 15:02 PSEQGC.FP.FI0.SAUVE.FP20ESP.L432.SI
+-rw-r----- 1 danglade veolia 2.5K Nov 17 15:02 PSEQGC.FR.FI0.RESID.DD000F1.SI
+-rw-r----- 1 danglade veolia 1.6G Nov 17 15:04 PSEQGC.GP.FI0.GROUP.FICHVALO.SI
+-rw-r----- 1 danglade veolia 1.6G Nov 17 15:10 PSEQGC.GP.FI0.GROUP.FICHVALO.SO
+
+/prj/veolia/batch/data/20151117/FP559/FI0:
+total 14M
+drwxrwsr-x 1 fsimonetto veolia  268 Dec 18 16:21 ascii
+drwxrwsr-x 1 fsimonetto veolia   62 Dec 22 11:01 csv
+-rw-r----- 1 fsimonetto veolia 1.8M Oct 23 10:21 DSEQGC.RPLT.CVI0SPIL.FI0.STRUCT2.TOTOXI02
+drwxrwsr-x 1 fsimonetto veolia   76 Dec 18 16:20 in
+-rw-r----- 1 fsimonetto veolia 9.8M Nov 17 17:17 PSEQGC.FP.FI0.FP556FIC.L432.SI
+-rw-r----- 1 fsimonetto veolia    0 Nov 17 17:17 PSEQGC.FP.FI0.FP559K.EXTRAIT.L432.SO
+-rw-r----- 1 fsimonetto veolia  73K Nov 17 17:17 PSEQGC.FP.FI0.FP559K.TELEFAC1.L432.SO
+-rw-r----- 1 fsimonetto veolia 1.5M Nov 17 17:17 PSEQGC.GP.FI0.GROUP.TELEFACT.SI
+
+/prj/veolia/batch/data/20151214/TW305/FI0:
+total 9.6M
+drwxrwsr-x 1 gbeguin veolia    0 Mar  2 16:39 ascii
+drwxrwsr-x 1 nchadli veolia 1.1K Mar  2 16:01 csv
+drwxrwsr-x 1 nchadli veolia  130 Feb 16 18:11 in
+drwxrwsr-x 1 nchadli veolia  130 Mar  2 16:02 out
+-rw-r----- 1 nchadli veolia  53K Dec 11 16:13 PSEQGC.TW.FI0.FMOUVREC.SO
+-rw-r----- 1 nchadli veolia 649K Dec 11 16:13 PSEQGC.TW.FI0.GN9026.MFAC.L432.SO
+-rw-r----- 1 nchadli veolia 384K Dec 11 16:13 PSEQGC.TW.FI0.GN9027.MREC.L432.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:13 PSEQGC.TW.FI0.GNEA9026.FACEARL.L432.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:13 PSEQGC.TW.FI0.GNEA9027.RECEARL.L432.SO
+-rw-r----- 1 nchadli veolia 4.8M Dec 11 16:05 PSEQGC.TW.FI0.GROUP.TWPIECE.SI
+-rw-r----- 1 nchadli veolia 1.2M Dec 11 16:13 PSEQGC.TW.FI0.GROUP.TWPIECE.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:13 PSEQGC.TW.FI0.MFACEDIT.L432.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:13 PSEQGC.TW.FI0.MFACTP2.GERAN.L432.SO
+-rw-r----- 1 nchadli veolia 649K Dec 11 16:13 PSEQGC.TW.FI0.MFACTP2.NONGERAN.L432.SO
+-rw-r----- 1 nchadli veolia  61K Dec 11 16:14 PSEQGC.TW.FI0.MREC1.L432.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:14 PSEQGC.TW.FI0.MRECEDIT.L432.SO
+-rw-r----- 1 nchadli veolia   80 Dec 11 16:14 PSEQGC.TW.FI0.PERMI.CREATOFE.SO
+-rw-r----- 1 nchadli veolia  42K Dec 11 16:14 PSEQGC.TW.FI0.TW1315.EDFAC.SO
+-rw-r----- 1 nchadli veolia 6.7K Dec 11 16:14 PSEQGC.TW.FI0.TW1315.ETAT.SO
+-rw-r----- 1 nchadli veolia 384K Dec 11 16:14 PSEQGC.TW.FI0.TW1408.FICHMREC.L432.SO
+-rw-r----- 1 nchadli veolia 523K Dec 11 16:05 PSEQGC.TW.FI0.TW1409.FEDIT.SI
+-rw-r----- 1 nchadli veolia 523K Dec 11 16:14 PSEQGC.TW.FI0.TW1409.FEDIT.SO
+-rw-r----- 1 nchadli veolia  11K Dec 11 16:14 PSEQGC.TW.FI0.TW1412.MRECO.SO
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:14 PSEQGC.TW.FI0.TW305K.DOUB.L432.SO
+-rw-r----- 1 nchadli veolia  52K Dec 11 16:05 PSEQGC.TW.FI0.TW468K.TWGI25.FRAIS.L432432
+-rw-r----- 1 nchadli veolia  49K Dec 11 16:05 PSEQGC.TW.FI0.TW5000.MVT110.SI
+-rw-r----- 1 nchadli veolia  68K Dec 11 16:05 PSEQGC.TW.FI0.TWGI20.MREC.SI
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:14 PSEQGC.TW.FI0.TWMVT05.MRECA.SO
+-rw-r----- 1 nchadli veolia  17K Dec 11 16:05 PSEQGC.TW.FI0.TWTF10.MREC.SI
+-rw-r----- 1 nchadli veolia    0 Dec 11 16:05 PSEQGC.TW.FI0.TWTI10.MREC.L432.SI
+-rw-r----- 1 nchadli veolia 171K Dec 11 16:05 PSEQGC.TW.FI0.TWTI15.MREC.SI
+
+/prj/veolia/batch/data/20151223/TW346/FI0:
+total 160K
+drwxrwsr-x 1 danglade veolia   10 Jan 18 13:30 ascii
+drwxrwsr-x 1 danglade veolia   40 Jan 18 11:01 in
+-rw-r----- 1 danglade veolia 3.8K Dec 14 11:59 PSEQGC.TW.FI0.TRANS.TW346.TRIE.L432.SO
+-rw-r----- 1 danglade veolia  49K Dec 14 11:59 PSEQGC.TW.FI0.TW346K.FEDIT.L432.SO
+-rw-r----- 1 danglade veolia  49K Dec 14 12:00 PSEQGC.TW.FI0.TW346K.FEDIT.TRIE.L432.SO
+-rw-r----- 1 danglade veolia  49K Dec 14 12:00 PSEQGC.TW.FI0.TWJC05.FEDIT.L432.SO
+-rw-r----- 1 danglade veolia    0 Dec 14 11:59 PSEQGC.TW.FI0.TWUT12.FEDIT2.SI
+-rw-r----- 1 danglade veolia    0 Dec 14 11:59 PSEQGC.TW.FI0.TWUT13.FEDIT3.SI
+-rw-r----- 1 danglade veolia    0 Dec 14 11:59 PSEQGC.TW.FI0.TWUT14.FEDIT4.SI
+-rw-r----- 1 danglade veolia    0 Dec 14 11:59 PSEQGC.TW.FI0.TWUT14.FEDIT6.SI
+
+/prj/veolia/batch/data/20160107/TRI3025/FI0:
+total 1.4G
+-rw-r----- 1 nchadli  veolia 336M Jan  7 14:45 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.MS
+-rw-rw-r-- 1 danglade veolia 336M Jan  8 10:52 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.MS.ASCII
+-rw-r----- 1 nchadli  veolia 336M Jan  7 14:44 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.MSI
+-rw-rw-r-- 1 danglade veolia 336M Jan  8 16:30 PSEQGC.TW.FI0.TW3015.TW3015OA.L432.MSI.ASCII
+-rw-r----- 1 nchadli  veolia    0 Jan  7 14:45 PSEQGC.TW.FI0.TW3025.EDITION.L432.MS
+-rw-r----- 1 nchadli  veolia 390K Jan  7 14:46 PSEQGC.TW.FI0.TW3025.TW3025OA.L432.MS
+-rw-r----- 1 nchadli  veolia 390K Jan  7 14:46 PSEQGC.TW.FI0.TW3025.TW3025OB.L432.MS
+
+/prj/veolia/batch/data/20160114/TW346XI/FI0:
+total 0
+drwxrwsr-x 1 danglade veolia 202 Jan 14 19:32 csv
+drwxrwsr-x 1 danglade veolia  28 Jan 14 17:31 in
+drwxrwsr-x 1 danglade veolia   0 Jan 14 17:31 PSEQGC.RPLT.TW.FI0.RECPROV.TW346XIaxHeaders.16778160
+
+/prj/veolia/batch/data/20160225/FP024IT/FI0:
+total 0
+drwxrwsr-x 1 nchadli veolia 10 Mar  3 10:25 ascii
+-rw-r----- 1 nchadli veolia  0 Feb 24 11:56 PSEQGC.FP.FI0.GNES423.HFACTACF.L054.FO
+-rw-r----- 1 nchadli veolia  0 Feb 24 11:56 PSEQGC.FP.FI0.GNPT422.HFACTACF.L054.FO
+-rw-r----- 1 nchadli veolia  0 Feb 24 11:56 PSEQGC.FP.FI0.MVTS.VALENSOR.L054.FI
+
+/prj/veolia/batch/data/20160225/FP052IT/FI0:
+total 0
+drwxrwsr-x 1 nchadli veolia 4 Mar  3 11:09 ascii
+-rw-r----- 1 nchadli veolia 0 Feb 23 13:59 PSEQGC.FP.FI0.RESID.FP407K.PARAM.FI
+
+/prj/veolia/batch/data/20160225/FP052IU/FI0:
+total 12K
+drwxrwsr-x 1 nchadli veolia   4 Mar  3 11:13 ascii
+-rw-r----- 1 nchadli veolia   0 Feb 23 14:08 PSEQGC.FP.FI0.GNPV8105.C151J.L054.FI
+-rw-r----- 1 nchadli veolia 240 Feb 23 14:08 PSEQGC.FP.FI0.GNPV8205.C152J.L054.FI
+-rw-r----- 1 nchadli veolia 160 Feb 23 14:08 PSEQGC.FP.FI0.GNPV8405.C155J.L054.FI
+-rw-r----- 1 nchadli veolia 160 Feb 23 14:08 PSEQGC.FP.FI0.GNPV8605.C157J.L054.FI
+
+/prj/veolia/batch/data/20160225/FP301IK/FI0:
+total 24K
+drwxrwsr-x 1 nchadli  veolia    6 Mar  2 16:54 ascii
+drwxrwsr-x 1 nchadli  veolia  234 Mar  3 10:38 csv
+drwxrwsr-x 1 nchadli  veolia   84 Mar  3 10:21 in
+drwxrwsr-x 1 nchadli  veolia   76 Mar  2 16:33 out
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FID00.FP8550.FP605K.L054.VO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8120.MAJSIT.PRO.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8210.MAJSIT.PRO.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8408.MAJSIT.PRO.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8422M.ACF06.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8422N.ACF06.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP8644.CRGNPV.L054.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.FP9010.MAJSIT.PRO.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.GNES423.ACF06.L054.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.GNPT423.ACF06.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.GNPV05.C151J.L054.FO
+-rw-r----- 1 nchadli  veolia  450 Feb 23 08:54 PSEQGC.FP.FI0.GNPV05.C152J.L054.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.GNPV05.C155F.L054.FO
+-rw-r----- 1 nchadli  veolia 1.6K Feb 23 08:54 PSEQGC.FP.FI0.GNPV05.C155J.L054.FO
+-rw-r----- 1 nchadli  veolia  160 Feb 23 08:54 PSEQGC.FP.FI0.GNPV05.C157J.L054.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.GNPV8105.C151J.L054.FO
+-rw-r----- 1 nchadli  veolia  240 Feb 23 08:54 PSEQGC.FP.FI0.GNPV8205.C152J.L054.FO
+-rw-r----- 1 nchadli  veolia  160 Feb 23 08:54 PSEQGC.FP.FI0.GNPV8405.C155J.L054.FO
+-rw-r----- 1 nchadli  veolia  160 Feb 23 08:54 PSEQGC.FP.FI0.GNPV8605.C157J.L054.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 08:54 PSEQGC.FP.FI0.MVTS.VALC157.L054.FO
+drwxrwsr-x 1 danglade veolia    6 Mar  3 09:34 unload
+
+/prj/veolia/batch/data/20160225/FP313IF/FI0:
+total 0
+drwxrwsr-x 1 nchadli veolia 62 Feb 29 17:29 csv
+drwxrwsr-x 1 nchadli veolia 24 Feb 29 17:27 in
+
+/prj/veolia/batch/data/20160225/FP313IK/FI0:
+total 22M
+drwxrwsr-x 1 nchadli  veolia    6 Feb 29 19:20 ascii
+drwxrwsr-x 1 nchadli  veolia 1.6K Mar  4 15:15 csv
+drwxrwsr-x 1 nchadli  veolia  146 Mar  4 14:43 in
+drwxrwsr-x 1 nchadli  veolia  148 Mar  7 13:27 out
+-rw-r----- 1 nchadli  veolia  30K Feb 23 13:59 PSEQGC.FP.FI0.FID00.FP8234.FP313K.L054.VO
+-rw-r----- 1 nchadli  veolia  70K Feb 23 13:59 PSEQGC.FP.FI0.FID00.GNTR15.FP313K.L054.VO
+-rw-r----- 1 nchadli  veolia  14K Feb 23 13:59 PSEQGC.FP.FI0.FP8234.CTR.FO
+-rw-r----- 1 nchadli  veolia  44K Feb 23 13:59 PSEQGC.FP.FI0.FP8234.NOM.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 13:59 PSEQGC.FP.FI0.FPTR02.PORTABLE.FO
+-rw-r----- 1 nchadli  veolia 355K Feb 23 13:59 PSEQGC.FP.FI0.FPTR03.INDEXT.FO
+-rw-r----- 1 nchadli  veolia 118K Feb 23 13:59 PSEQGC.FP.FI0.FPTR04.REJET.FO
+-rw-r----- 1 nchadli  veolia  17K Feb 23 13:59 PSEQGC.FP.FI0.GNTR01.PORTABLE.FO
+-rw-r----- 1 nchadli  veolia 355K Feb 23 13:59 PSEQGC.FP.FI0.GNTR03.GNINDEXS.FO
+-rw-r----- 1 nchadli  veolia  47K Feb 23 13:59 PSEQGC.FP.FI0.GNTR03.REJET.FO
+-rw-r----- 1 nchadli  veolia    0 Feb 23 13:59 PSEQGC.FP.FI0.GNTR03.SICLIENT.L054.FO
+-rw-r----- 1 nchadli  veolia 886K Feb 23 13:59 PSEQGC.FP.FI0.GNTRI1.GNTRIE.FO
+-rw-r----- 1 nchadli  veolia 9.9M Feb 23 13:59 PSEQGC.FP.FI0.SAUVE.LOGAPRTR.L054.FO
+-rw-r----- 1 nchadli  veolia 9.5M Feb 23 13:59 PSEQGC.FP.FI0.SAUVE.LOGAVTTR.L054.FO
+drwxrwsr-x 1 danglade veolia    6 Mar  7 13:27 unload
+
+/prj/veolia/batch/data/20160225/FP351IK/FI0:
+total 28K
+drwxrwsr-x 1 nchadli veolia  10 Mar  3 09:58 ascii
+-rw-r----- 1 nchadli veolia 15K Feb 24 14:16 PSEQGC.FP.FI0.MVTS.MAJABON.L054.FO
+-rw-r----- 1 nchadli veolia   0 Feb 24 14:16 PSEQGC.FP.FI0.MVTS.MAJTARI.L054.FO
+-rw-r----- 1 nchadli veolia   0 Feb 24 14:17 PSEQGC.FP.FI0.MVTS.REPENSOR.L054.FO
+-rw-r----- 1 nchadli veolia 160 Feb 24 14:17 PSEQGC.FP.FI0.MVTS.VALC157.L054.FO
+-rw-r----- 1 nchadli veolia 160 Feb 24 14:17 PSEQGC.FP.FI0.MVTS.VALCX55.L054.FO
+-rw-r----- 1 nchadli veolia   0 Feb 24 14:17 PSEQGC.FP.FI0.MVTS.VALENSOR.L054.FO
+-rw-r----- 1 nchadli veolia  80 Feb 24 14:16 PSEQGC.FP.FI0.PERMI.EXTRAC.FI
+
+/prj/veolia/batch/data/20160225/FP554IK/FI0:
+total 12M
+drwxrwsr-x 1 nchadli veolia   74 Mar  1 12:32 ascii
+drwxrwsr-x 1 nchadli veolia  744 Mar  1 11:41 csv
+drwxrwsr-x 1 nchadli veolia  144 Mar  1 10:44 in
+drwxrwsr-x 1 nchadli veolia   22 Mar  1 11:27 out
+-rw-r----- 1 nchadli veolia 2.5K Feb 26 09:06 PSEQFR.FR.FZ0.RESID.DD000F1.FI
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:07 PSEQGC.FP.FI0.GNES301.PARAMX55.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:07 PSEQGC.FP.FI0.GNES423.ACF06.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:07 PSEQGC.FP.FI0.GNES423.HFACTACF.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:07 PSEQGC.FP.FI0.GNES426.SORTIE.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:07 PSEQGC.FP.FI0.GNPT422.HFACTACF.L054.FO
+-rw-r----- 1 nchadli veolia 5.9M Feb 26 09:06 PSEQGC.FP.FI0.GROUP.ABOVAL.FIP00
+-rw-r----- 1 nchadli veolia 5.9M Feb 26 09:07 PSEQGC.FP.FI0.GROUP.ABOVAL.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 26 09:06 PSEQGC.FP.FI0.MVTS.VALENSOR.L054.FI
+
+/prj/veolia/batch/data/20160225/TW305IK/FI0:
+total 24M
+drwxrwsr-x 1 nchadli veolia  274 Mar  1 15:55 ascii
+drwxrwsr-x 1 nchadli veolia   52 Mar  1 14:45 csv
+drwxrwsr-x 1 nchadli veolia  156 Mar  1 14:27 in
+drwxrwsr-x 1 nchadli veolia  144 Mar  1 14:28 out
+-rw-r----- 1 nchadli veolia 2.5K Feb 23 19:46 PSEQFR.FR.FZ0.RESID.DD000F1.FI
+-rw-r----- 1 nchadli veolia    0 Feb 23 19:58 PSEQGC.TW.FI0.FMOUVREC.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:13 PSEQGC.TW.FI0.GN9026.MFAC.L054.VO
+-rw-r----- 1 nchadli veolia 602K Feb 23 20:13 PSEQGC.TW.FI0.GN9027.MREC.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:13 PSEQGC.TW.FI0.GNEA9026.FACEARL.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:13 PSEQGC.TW.FI0.GNEA9027.RECEARL.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.FICHMFAC.VI0
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.FICHMFAC.VOP00
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:13 PSEQGC.TW.FI0.GROUP.FICHMREC.FI0
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:13 PSEQGC.TW.FI0.GROUP.FICHMREC.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 24 09:17 PSEQGC.TW.FI0.GROUP.FRAIGI25.FOP00001V00
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.RPA01MRC.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.SFP14MRC.FI0
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.SFP14MRC.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.SORNOVIR.FI0
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.GROUP.SORNOVIR.FOP00
+-rw-r----- 1 nchadli veolia  20M Feb 23 19:53 PSEQGC.TW.FI0.GROUP.TWPIECE.FIP00
+-rw-r----- 1 nchadli veolia 257K Feb 23 20:14 PSEQGC.TW.FI0.GROUP.TWPIECE.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.MFACEDIT.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.MFACTP2.GERAN.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.MFACTP2.NONGERAN.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.MREC1.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.MRECEDIT.L054.FO
+-rw-r----- 1 nchadli veolia   80 Feb 23 20:14 PSEQGC.TW.FI0.PERMI.CREATOFE.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:14 PSEQGC.TW.FI0.TW1315.EDFAC.FO
+-rw-r----- 1 nchadli veolia  240 Feb 23 20:14 PSEQGC.TW.FI0.TW1315.ETAT.FO
+-rw-r----- 1 nchadli veolia 602K Feb 23 20:14 PSEQGC.TW.FI0.TW1408.FICHMREC.L054.FO
+-rw-r----- 1 nchadli veolia 484K Feb 23 19:54 PSEQGC.TW.FI0.TW1409.FEDIT.FI
+-rw-r----- 1 nchadli veolia 484K Feb 23 20:15 PSEQGC.TW.FI0.TW1409.FEDIT.FO
+-rw-r----- 1 nchadli veolia 257K Feb 23 20:15 PSEQGC.TW.FI0.TW1412.MRECO.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TW305K.DOUB.L054.FO
+-rw-r----- 1 nchadli veolia 2.9K Feb 23 19:54 PSEQGC.TW.FI0.TW468K.TWGI25.FRAIS.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 23 19:54 PSEQGC.TW.FI0.TW5000.MVT110.FI
+-rw-r----- 1 nchadli veolia  13K Feb 23 19:54 PSEQGC.TW.FI0.TWGI20.MREC.FI
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWMVT05.MRECA.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWMVT05.MRECN.FO
+-rw-r----- 1 nchadli veolia  35K Feb 23 19:54 PSEQGC.TW.FI0.TWTF10.MREC.FI
+-rw-r----- 1 nchadli veolia    0 Feb 23 19:54 PSEQGC.TW.FI0.TWTI10.MREC.L054.FI
+-rw-r----- 1 nchadli veolia 436K Feb 23 19:54 PSEQGC.TW.FI0.TWTI15.MREC.FI
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT11.FEDIT1.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT12.FEDIT2.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT13.FEDIT3.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT14C1.SEDIT4.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT14C2.SEDIT4.FO
+-rw-r----- 1 nchadli veolia 570K Feb 23 20:15 PSEQGC.TW.FI0.TWUT14.FEDIT4.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT14.FEDIT6.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT15.FEDIT5.FO
+-rw-r----- 1 nchadli veolia 257K Feb 23 20:15 PSEQGC.TW.FI0.TWUT16.MRECOP.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:15 PSEQGC.TW.FI0.TWUT16.MRECOR.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:16 PSEQGC.TW.FI0.TWUT17.ANOMALIE.FO
+-rw-r----- 1 nchadli veolia    0 Feb 23 20:16 PSEQGC.TW.FI0.TWUT17.SCLI5.FO
+
+/prj/veolia/batch/data/20160225/TW306IK/FI0:
+total 4.0K
+drwxrwsr-x 1 nchadli veolia   28 Mar  1 18:48 in
+drwxrwsr-x 1 nchadli veolia    0 Mar  1 18:48 PSEQGC.RPLT.GP.FI0.SPITAB2.TW306IK.VXIaxHeaders.50332415
+-rw-r----- 1 nchadli veolia 2.0K Feb 24 09:38 PSEQGC.TW.FI0.TWTI05.SPIMAJ.FI
+drwxrwsr-x 1 nchadli veolia    4 Mar  1 18:48 PSEQGC.TW.FI0.TWTI05.SPIMAJ.FIaxHeaders.50331931
+
+/prj/veolia/batch/data/20160225/TW341IK/FI0:
+total 4.0K
+drwxrwsr-x 1 nchadli veolia  248 Mar  8 15:27 csv
+drwxrwsr-x 1 nchadli veolia   66 Mar  8 11:13 in
+-rw-r----- 1 nchadli veolia 2.5K Mar  3 10:06 PSEQFR.FR.FZ0.RESID.DD000F1.FI
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:06 PSEQGC.TW.FI0.FID00.TW3005.TW341K.L054.VO
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:06 PSEQGC.TW.FI0.GROUP.RECYCPT.FIP00
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:07 PSEQGC.TW.FI0.TRI3010.TW3010IA.L054.FO
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:07 PSEQGC.TW.FI0.TW3005.TW3005OB.L054.FO
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:07 PSEQGC.TW.FI0.TW3007.TW3007OA.L054.FO
+-rw-r----- 1 nchadli veolia    0 Mar  3 10:07 PSEQGC.TW.FI0.TW3007.TW3007OB.L054.FO
+
+/prj/veolia/batch/data/20160225/TW344IK/FI0:
+total 4.0K
+drwxrwsr-x 1 nchadli veolia    4 Mar  1 12:17 ascii
+drwxrwsr-x 1 nchadli veolia   28 Mar  1 12:16 in
+-rw-r----- 1 nchadli veolia 2.5K Feb 24 12:25 PSEQFR.FR.FZ0.RESID.DD000F1.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 12:25 PSEQGC.TW.FI0.TRI3010.TW3010IA.L054.FI
+
+/prj/veolia/batch/data/20160225/TW346IK/FI0:
+total 1.2M
+drwxrwsr-x 1 nchadli veolia   66 Mar  2 17:32 in
+-rw-r----- 1 nchadli veolia 4.4K Feb 24 10:41 PSEQGC.TW.FI0.TRANS.TW346.TRIE.L054.FO
+-rw-r----- 1 nchadli veolia 292K Feb 24 10:41 PSEQGC.TW.FI0.TW346K.FEDIT.L054.FO
+-rw-r----- 1 nchadli veolia 292K Feb 24 10:41 PSEQGC.TW.FI0.TW346K.FEDIT.TRIE.L054.FO
+-rw-r----- 1 nchadli veolia  41K Feb 24 10:41 PSEQGC.TW.FI0.TWJC05.FEDIT.L054.FO
+-rw-r----- 1 nchadli veolia    0 Feb 24 10:40 PSEQGC.TW.FI0.TWUT11.FEDIT1.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 10:41 PSEQGC.TW.FI0.TWUT12.FEDIT2.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 10:41 PSEQGC.TW.FI0.TWUT13.FEDIT3.FI
+-rw-r----- 1 nchadli veolia 570K Feb 24 10:41 PSEQGC.TW.FI0.TWUT14.FEDIT4.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 10:41 PSEQGC.TW.FI0.TWUT14.FEDIT6.FI
+
+/prj/veolia/batch/data/20160225/TW708IE/FI0:
+total 5.3M
+drwxrwsr-x 1 nchadli veolia    4 Mar  2 12:37 ascii
+drwxrwsr-x 1 nchadli veolia   52 Mar  2 11:11 in
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.FID00.CAEARL.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia  37K Feb 24 11:11 PSEQGC.TW.FI0.FID00.GNCOLECH.L054.VI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:15 PSEQGC.TW.FI0.FID00.TW1325.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia 3.4K Feb 24 11:15 PSEQGC.TW.FI0.FID00.TW1332.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:15 PSEQGC.TW.FI0.FID00.TW1411C.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:15 PSEQGC.TW.FI0.FID00.TW1411D.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia 1.7M Feb 24 11:16 PSEQGC.TW.FI0.FID00.TW1435.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWCATEP.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia 105K Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWGI25.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia  11K Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWGI30.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia  62K Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWJC10.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia  34K Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWJC15.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:16 PSEQGC.TW.FI0.FID00.TWJC20.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.FID00.TWRIBANO.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia  57K Feb 24 11:11 PSEQGC.TW.FI0.FID00.TWTF10.TW305K.L054.VI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.FID00.TWTI11.L054.VO
+-rw-r----- 1 nchadli veolia  24K Feb 24 11:11 PSEQGC.TW.FI0.FID00.TWTI40.TW305K.L054.VI
+-rw-r----- 1 nchadli veolia  13K Feb 24 11:17 PSEQGC.TW.FI0.FID00.TWTIPANO.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia 119K Feb 24 11:17 PSEQGC.TW.FI0.FID00.TWUT11.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.FID00.TWUT17E.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:11 PSEQGC.TW.FI0.FMOUVREC.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:12 PSEQGC.TW.FI0.GNEA9026.FACEARL.L054.VI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:11 PSEQGC.TW.FI0.GNEA9027.RECEARL.L054.VI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.GROUP.ANOTIP.FI0
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.GROUP.ANOTIP.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.GROUP.RECEPETA.FI0
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.GROUP.RECEPETA.FOP00
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.NAN.FI.TW1325.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:17 PSEQGC.TW.FI0.NAN.FI.TWGI25.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.NAN.FI.TWGI30.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.NAN.FI.TWUT11.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.NAN.FMOUVREC.FO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:12 PSEQGC.TW.FI0.NAN.TWGI20.FETAT2.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.NAN.TWUT11AN.EDIT.FO
+-rw-r----- 1 nchadli veolia 105K Feb 24 11:18 PSEQGC.TW.FI0.REN.FI.TWGI25.TW708E.L054.VO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.REN.FMOUVREC.FO
+-rw-r----- 1 nchadli veolia 3.6K Feb 24 11:12 PSEQGC.TW.FI0.REN.TWGI20.FETAT2.L054.FI
+-rw-r----- 1 nchadli veolia 570K Feb 24 11:18 PSEQGC.TW.FI0.REN.TWUT11AN.EDIT.FO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:12 PSEQGC.TW.FI0.TW1315.EDFAC.FI
+-rw-r----- 1 nchadli veolia  240 Feb 24 11:12 PSEQGC.TW.FI0.TW1315.ETAT.FI
+-rw-r----- 1 nchadli veolia 484K Feb 24 11:13 PSEQGC.TW.FI0.TW1409.FEDIT.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:18 PSEQGC.TW.FI0.TW305K.TELTRANS.L054.FO
+-rw-r----- 1 nchadli veolia 292K Feb 24 11:13 PSEQGC.TW.FI0.TW346K.FEDIT.L054.FI
+-rw-r----- 1 nchadli veolia  26K Feb 24 11:13 PSEQGC.TW.FI0.TWGI20.FETAT1.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:13 PSEQGC.TW.FI0.TWMVT05.MRECA.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:13 PSEQGC.TW.FI0.TWMVT05.MRECN.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:13 PSEQGC.TW.FI0.TWRIB02.RIBANO01.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:13 PSEQGC.TW.FI0.TWTF05.TELTRANS.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:13 PSEQGC.TW.FI0.TWTF10.ANOTELEF.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWTI05.TELTRANS.L054.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWTI10.ATIP.L054.FI
+-rw-r----- 1 nchadli veolia 570K Feb 24 11:18 PSEQGC.TW.FI0.TWUT11AN.EDIT.FO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT11.FEDIT1.FI
+-rw-r----- 1 nchadli veolia 541K Feb 24 11:18 PSEQGC.TW.FI0.TWUT11JC.EDIT.FO
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT12.FEDIT2.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT13.FEDIT3.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT14C1.SEDIT4.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT14C2.SEDIT4.FI
+-rw-r----- 1 nchadli veolia 570K Feb 24 11:14 PSEQGC.TW.FI0.TWUT14.FEDIT4.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT14.FEDIT6.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT15.FEDIT5.FI
+-rw-r----- 1 nchadli veolia    0 Feb 24 11:14 PSEQGC.TW.FI0.TWUT17.ANOMALIE.FI
