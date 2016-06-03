@@ -1,3 +1,3 @@
 # Eval_Lanterna 
-based on com.googlecode.lanterna
-Walk arround with Lanterna
+mini test of com.googlecode.lanterna
+
